@@ -116,15 +116,6 @@ terraform apply
 
 ---
 
-## TODOs / Next Steps
-
-- Add domain validation for ACM if using custom domain
-- Setup Route53 (optional)
-- Add Terraform backend (e.g., S3 + DynamoDB) for state storage
-- Configure detailed application logs + tracing (e.g., X-Ray)
-
----
-
 ## Author
 **Harshal Thakur**  
 Cloud & DevOps Enthusiast | AWS/GCP | CI/CD | Infrastructure as Code
